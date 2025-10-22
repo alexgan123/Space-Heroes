@@ -1,7 +1,7 @@
 {
   "resourceType": "GMScript",
   "resourceVersion": "1.0",
-  "name": "Script1",
+  "name": "draw_text_custom",
   "isDnD": false,
   "isCompatibility": false,
   "parent": {

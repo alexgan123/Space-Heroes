@@ -1,0 +1,1 @@
+draw_text_custom(x, y, "FPS: " + string(fps), font_medium, c_white, fa_left, fa_middle);

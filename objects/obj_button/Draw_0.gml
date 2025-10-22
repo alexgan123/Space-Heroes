@@ -12,4 +12,4 @@ if (hovered) {
 }
 
 
-draw_text_custom(x, y + (held ? 6 : 0), text, font_medium, c_white, fa_center, fa_middle);
+draw_text_custom(x, y + (held ? 6 : 0), text, font_small, c_white, fa_center, fa_middle);

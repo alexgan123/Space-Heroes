@@ -1,1 +1,1 @@
-draw_text_custom(x, y, "Space Heroes", font_extra_large, c_black, fa_center, fa_middle);
+draw_text_custom(x, y, "Space Heroes", font_extra_large, c_white, fa_center, fa_middle);
