@@ -1,2 +1,2 @@
 draw_text_custom(x, y, "FPS: " + string(fps), font_medium, c_white, fa_left, fa_middle);
-draw_text_custom(x, y-60, string(mouse_x) + " " + string(mouse_y), font_medium, c_white, fa_left, fa_middle);
+draw_text_custom(x, y-60, "(" + string(mouse_x) + ", " + string(mouse_y) + ")", font_medium, c_white, fa_left, fa_middle);
